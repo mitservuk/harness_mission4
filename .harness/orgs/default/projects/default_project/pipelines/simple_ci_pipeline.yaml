@@ -41,4 +41,4 @@ pipeline:
                     connectorRef: project_level_dockerhub_connector
                     image: bash
                     shell: Sh
-                    command: sh run .sh
+                    command: sh run.sh
